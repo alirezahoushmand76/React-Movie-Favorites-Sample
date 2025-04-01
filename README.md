@@ -2,8 +2,6 @@
 
 A modern React application for browsing and searching movies, built with Vite and The Movie Database (TMDB) API.
 
-![Movie App Screenshot](https://via.placeholder.com/800x400?text=Movie+App+Screenshot)
-
 ## Features
 
 - **Browse Popular Movies**: Discover top-rated and trending movies
