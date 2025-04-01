@@ -61,6 +61,24 @@ A modern React application for browsing and searching movies, built with Vite an
 
 5. Open your browser and navigate to `http://localhost:5173`
 
+## Deployment
+
+### GitHub Pages
+
+This project is configured for easy deployment to GitHub Pages using GitHub Actions.
+
+1. Push your code to your GitHub repository
+2. GitHub Actions will automatically build and deploy your site
+3. Your site will be available at `https://your-username.github.io/repository-name/`
+
+You can also manually deploy using:
+
+```bash
+npm run build
+```
+
+This will create a `dist` folder that can be deployed to any static site hosting service.
+
 ## Project Structure
 
 ```
